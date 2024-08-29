@@ -1,0 +1,113 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
+      "genre_ids": [28, 80],
+      "id": 1160018,
+      "original_language": "hi",
+      "original_title": "Kill",
+      "overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on himself in a death-defying kill-spree to save those around him — turning what should have been a typical commute into an adrenaline-fueled thrill ride.",
+      "popularity": 1498.7,
+      "poster_path": "/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+      "release_date": "2024-07-03",
+      "title": "Kill",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 84,
+      "available_cinemas": [
+        {
+          "cinema_id": "c1",
+          "cinema_name": "Grandview Theater",
+          "time_slots": [
+            {"time": "13:00", "price": 12.0},
+            {"time": "16:30", "price": 14.0},
+            {"time": "20:00", "price": 17.0}
+          ]
+        },
+        {
+          "cinema_id": "c2",
+          "cinema_name": "Star Cinema",
+          "time_slots": [
+            {"time": "14:00", "price": 13.0},
+            {"time": "17:30", "price": 15.0},
+            {"time": "21:00", "price": 18.0}
+          ]
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+      "genre_ids": [27, 878],
+      "id": 945961,
+      "original_language": "en",
+      "original_title": "Alien: Romulus",
+      "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+      "popularity": 1335.187,
+      "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "release_date": "2024-08-13",
+      "title": "Alien: Romulus",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 574,
+      "available_cinemas": [
+        {
+          "cinema_id": "c1",
+          "cinema_name": "Grandview Theater",
+          "time_slots": [
+            {"time": "12:30", "price": 11.0},
+            {"time": "15:00", "price": 13.0},
+            {"time": "18:30", "price": 16.0}
+          ]
+        },
+        {
+          "cinema_id": "c3",
+          "cinema_name": "Metroplex Cinemas",
+          "time_slots": [
+            {"time": "14:00", "price": 12.5},
+            {"time": "17:30", "price": 14.5},
+            {"time": "21:00", "price": 17.5}
+          ]
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9BQqngPfwpeAfK7c2H3cwIFWIVR.jpg",
+      "genre_ids": [18],
+      "id": 1079091,
+      "original_language": "en",
+      "original_title": "It Ends with Us",
+      "overview": "Lily Bloom overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents' relationship.",
+      "popularity": 1307.713,
+      "poster_path": "/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+      "release_date": "2024-08-07",
+      "title": "It Ends with Us",
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 161,
+      "available_cinemas": [
+        {
+          "cinema_id": "c2",
+          "cinema_name": "Star Cinema",
+          "time_slots": [
+            {"time": "15:00", "price": 12.0},
+            {"time": "18:00", "price": 14.0},
+            {"time": "21:00", "price": 17.0}
+          ]
+        },
+        {
+          "cinema_id": "c3",
+          "cinema_name": "Metroplex Cinemas",
+          "time_slots": [
+            {"time": "16:00", "price": 13.0},
+            {"time": "19:00", "price": 15.0},
+            {"time": "22:00", "price": 18.0}
+          ]
+        }
+      ]
+    }
+  ]
+}
