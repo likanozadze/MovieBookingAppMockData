@@ -19,7 +19,10 @@
       "available_cinemas": [
         {
           "cinema_id": "c1",
-          "cinema_name": "Grandview Theater",
+          "cinema_name": "City Mall",
+          "address": "70 Vazha Pshavela Ave, Tbilisi",
+          "latitude": 41.724009174933535,
+          "longitude": 44.73770479327514,
           "time_slots": [
             {"time": "13:00", "price": 12.0},
             {"time": "16:30", "price": 14.0},
@@ -28,7 +31,10 @@
         },
         {
           "cinema_id": "c2",
-          "cinema_name": "Star Cinema",
+          "cinema_name": "Galleria Tbilisi",
+          "address": "2/4 Shota Rustaveli Ave, Tbilisi",
+          "latitude": 41.694750695714866,
+          "longitude": 44.79995546741363,
           "time_slots": [
             {"time": "14:00", "price": 13.0},
             {"time": "17:30", "price": 15.0},
@@ -54,8 +60,11 @@
       "vote_count": 574,
       "available_cinemas": [
         {
-          "cinema_id": "c1",
-          "cinema_name": "Grandview Theater",
+          "cinema_id": "c3",
+          "cinema_name": "Amirani",
+          "address": "36/1 Merab Kostava St, Tbilisi",
+          "latitude": 41.708183062247905,
+          "longitude": 44.78572621159508,
           "time_slots": [
             {"time": "12:30", "price": 11.0},
             {"time": "15:00", "price": 13.0},
@@ -63,8 +72,11 @@
           ]
         },
         {
-          "cinema_id": "c3",
-          "cinema_name": "Metroplex Cinemas",
+          "cinema_id": "c1",
+          "cinema_name": "City Mall",
+          "address": "70 Vazha Pshavela Ave, Tbilisi",
+          "latitude": 41.724009174933535,
+          "longitude": 44.73770479327514,
           "time_slots": [
             {"time": "14:00", "price": 12.5},
             {"time": "17:30", "price": 14.5},
@@ -90,8 +102,11 @@
       "vote_count": 161,
       "available_cinemas": [
         {
-          "cinema_id": "c2",
-          "cinema_name": "Star Cinema",
+          "cinema_id": "c1",
+          "cinema_name": "City Mall",
+          "address": "70 Vazha Pshavela Ave, Tbilisi",
+          "latitude": 41.724009174933535,
+          "longitude": 44.73770479327514,
           "time_slots": [
             {"time": "15:00", "price": 12.0},
             {"time": "18:00", "price": 14.0},
@@ -100,7 +115,10 @@
         },
         {
           "cinema_id": "c3",
-          "cinema_name": "Metroplex Cinemas",
+          "cinema_name": "Amirani",
+          "address": "36/1 Merab Kostava St, Tbilisi",
+          "latitude": 41.708183062247905,
+          "longitude": 44.78572621159508,
           "time_slots": [
             {"time": "16:00", "price": 13.0},
             {"time": "19:00", "price": 15.0},
